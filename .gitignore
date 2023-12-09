@@ -16,3 +16,10 @@ consoleapp2.metadata.v7.bin
 .suo
 consoleapp2.metadata.v7.bin
 consoleapp2.projects.v7.bin
+.pdb
+.dll
+.cache
+.suo
+.sln
+.json
+.exe
