@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #2 Clock\\Beginner Series #2 Clock.csproj": {}
+    "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #2 Clock\\Beginner Series #2 Clock.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #2 Clock\\Beginner Series #2 Clock.csproj": {
+    "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #2 Clock\\Beginner Series #2 Clock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #2 Clock\\Beginner Series #2 Clock.csproj",
+        "projectUniqueName": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #2 Clock\\Beginner Series #2 Clock.csproj",
         "projectName": "Beginner Series #2 Clock",
-        "projectPath": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #2 Clock\\Beginner Series #2 Clock.csproj",
+        "projectPath": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #2 Clock\\Beginner Series #2 Clock.csproj",
         "packagesPath": "C:\\Users\\tursu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #2 Clock\\obj\\",
+        "outputPath": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #2 Clock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tursu\\AppData\\Roaming\\NuGet\\NuGet.Config",

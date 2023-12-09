@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork.csproj": {}
+    "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork.csproj": {
+    "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork.csproj",
+        "projectUniqueName": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork.csproj",
         "projectName": "Beginner Series #1 School Paperwork",
-        "projectPath": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork.csproj",
+        "projectPath": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork.csproj",
         "packagesPath": "C:\\Users\\tursu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Beginner Series #1 School Paperwork\\Beginner Series #1 School Paperwork\\obj\\",
+        "outputPath": "C:\\Users\\tursu\\source\\repos\\CodeWars\\8kyu\\Code\\Beginner Series #1 School Paperwork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tursu\\AppData\\Roaming\\NuGet\\NuGet.Config",

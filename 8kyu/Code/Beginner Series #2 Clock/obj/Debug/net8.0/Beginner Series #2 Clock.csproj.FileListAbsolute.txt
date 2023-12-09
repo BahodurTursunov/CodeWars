@@ -12,3 +12,18 @@ C:\Users\tursu\source\repos\CodeWars\8kyu\Beginner Series #1 School Paperwork\Be
 C:\Users\tursu\source\repos\CodeWars\8kyu\Beginner Series #1 School Paperwork\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.pdb
 C:\Users\tursu\source\repos\CodeWars\8kyu\Beginner Series #1 School Paperwork\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.genruntimeconfig.cache
 C:\Users\tursu\source\repos\CodeWars\8kyu\Beginner Series #1 School Paperwork\Beginner Series #2 Clock\obj\Debug\net8.0\ref\Beginner Series #2 Clock.dll
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\bin\Debug\net8.0\Beginner Series #2 Clock.exe
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\bin\Debug\net8.0\Beginner Series #2 Clock.deps.json
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\bin\Debug\net8.0\Beginner Series #2 Clock.runtimeconfig.json
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\bin\Debug\net8.0\Beginner Series #2 Clock.dll
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\bin\Debug\net8.0\Beginner Series #2 Clock.pdb
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.AssemblyInfoInputs.cache
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.AssemblyInfo.cs
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.csproj.CoreCompileInputs.cache
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.sourcelink.json
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.dll
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\refint\Beginner Series #2 Clock.dll
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.pdb
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\Beginner Series #2 Clock.genruntimeconfig.cache
+C:\Users\tursu\source\repos\CodeWars\8kyu\Code\Beginner Series #2 Clock\obj\Debug\net8.0\ref\Beginner Series #2 Clock.dll
